@@ -1,5 +1,7 @@
 # Odds DrawProof
 
+License: MIT
+
 Independent, dependency-free verifier for **Odds draw outcome integrity**.
 
 Given the revealed seeds and the odds table that was locked in for a purchase, anyone can recompute:
